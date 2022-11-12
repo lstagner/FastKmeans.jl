@@ -6,6 +6,7 @@ module FastKmeans
 
 using Clustering
 using StaticArrays
+using LinearAlgebra
 
 function point_all_ctrs!(i,x,c,a,u,l)
     k = length(c)

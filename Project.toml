@@ -1,0 +1,9 @@
+name = "FastKmeans"
+uuid = "bb979b4f-9c9b-4e1b-b94b-f1c3d58f5e29"
+authors = ["Luke Stagner <stagnerl@fusion.gat.com>"]
+version = "0.1.0"
+
+[deps]
+Clustering = "aaaa29a8-35af-508c-8bc3-b662a17a0fe5"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
